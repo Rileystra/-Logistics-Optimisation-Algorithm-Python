@@ -59,7 +59,7 @@ Output: Optimised loading sequence + any violations flagged
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/logistics-optimisation.git
+git clone https://github.com/rylee stra/logistics-optimisation.git
 cd logistics-optimisation
 ```
 
